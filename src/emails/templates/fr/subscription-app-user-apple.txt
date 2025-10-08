@@ -1,0 +1,14 @@
+Création de compte Simply Life
+
+Simply Life est l'application mobile dédiée au Groupe Valorem. Elle vous permet de gérer votre quotidien professionnelle à un seul endroit.
+
+Cliquez sur le lien ci-dessous pour finaliser la création de votre compte Simply Life :
+Lien: {{registrationLink}}
+
+Pour télécharger l'application :
+
+Sur Apple : L'application est privée sur Apple uniquement. Utilisez ce lien de téléchargement directement sur votre téléphone :
+Lien iOS: {{appStoreCode}}
+
+Sur Android : Cliquez sur ce lien :
+Lien Android: https://play.google.com/apps/testing/com.anonymze.simplylife
